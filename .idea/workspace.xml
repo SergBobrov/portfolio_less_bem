@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7a0a447d-e10b-446b-b24d-316597b21794" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Less File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1j6yYu3ILzmFztpIElPCEv8efI5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/css/blocks" />
+    <property name="list.type.of.created.stylesheet" value="Less" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\dev\study\portfolio_youtube\css\blocks" />
+      <recent name="G:\dev\study\portfolio_youtube" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7a0a447d-e10b-446b-b24d-316597b21794" name="Default Changelist" comment="" />
+      <created>1603138886207</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603138886207</updated>
+      <workItem from="1603138887243" duration="7983000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="654" y="251" key="#File_Watchers" timestamp="1603140663290">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="654" y="251" key="#File_Watchers/0.0.1536.834@0.0.1536.834" timestamp="1603140663290" />
+    <state x="522" y="241" key="#Notifications" timestamp="1603139563283">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="522" y="241" key="#Notifications/0.0.1536.834@0.0.1536.834" timestamp="1603139563283" />
+    <state x="438" y="196" key="EditFileWatcherDialog" timestamp="1603140687713">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="438" y="196" key="EditFileWatcherDialog/0.0.1536.834@0.0.1536.834" timestamp="1603140687713" />
+    <state x="549" y="172" key="FileChooserDialogImpl" timestamp="1603140685397">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1603140685397" />
+    <state x="277" y="62" key="SettingsEditor" timestamp="1603140690029">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="277" y="62" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1603140690029" />
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1603139542779">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1603139542779" />
+  </component>
+</project>
