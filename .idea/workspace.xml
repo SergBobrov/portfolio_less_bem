@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7a0a447d-e10b-446b-b24d-316597b21794" name="Default Changelist" comment="" />
+    <list default="true" id="7a0a447d-e10b-446b-b24d-316597b21794" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/css/blocks/btn.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/blocks/intro.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/blocks/social.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/blocks/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/blocks/style.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/blocks/container.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/blocks/container.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/blocks/header.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/blocks/header.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/blocks/nav.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/blocks/nav.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/blocks/nav.less" beforeDir="false" afterPath="$PROJECT_DIR$/css/blocks/nav.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/blocks/user.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/blocks/user.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.less" beforeDir="false" afterPath="$PROJECT_DIR$/css/blocks/style.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/vars.less" beforeDir="false" afterPath="$PROJECT_DIR$/css/blocks/vars.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +36,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1j6yYu3ILzmFztpIElPCEv8efI5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -31,6 +56,10 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\dev\study\portfolio_youtube\css\blocks" />
+      <recent name="G:\dev\study\portfolio_youtube\css" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="G:\dev\study\portfolio_youtube\css\blocks" />
       <recent name="G:\dev\study\portfolio_youtube" />
@@ -44,12 +73,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603138886207</updated>
-      <workItem from="1603138887243" duration="7983000" />
+      <workItem from="1603138887243" duration="14316000" />
     </task>
+    <task id="LOCAL-00001" summary="init commit">
+      <created>1603147094960</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603147094960</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="init commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="654" y="251" key="#File_Watchers" timestamp="1603140663290">
@@ -60,6 +101,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="522" y="241" key="#Notifications/0.0.1536.834@0.0.1536.834" timestamp="1603139563283" />
+    <state x="393" y="13" key="CommitChangelistDialog2" timestamp="1603147093903">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="393" y="13" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1603147093903" />
     <state x="438" y="196" key="EditFileWatcherDialog" timestamp="1603140687713">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -68,10 +113,26 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1603140685397" />
+    <state x="627" y="315" key="Github.ShareDialog" timestamp="1603147069706">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="627" y="315" key="Github.ShareDialog/0.0.1536.834@0.0.1536.834" timestamp="1603147069706" />
+    <state x="603" y="115" key="Github.UntrackedFilesDialog" timestamp="1603147075162">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="603" y="115" key="Github.UntrackedFilesDialog/0.0.1536.834@0.0.1536.834" timestamp="1603147075162" />
     <state x="277" y="62" key="SettingsEditor" timestamp="1603140690029">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="277" y="62" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1603140690029" />
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1603148142448">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1603148142448" />
+    <state x="586" y="331" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603151364895">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="586" y="331" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.834@0.0.1536.834" timestamp="1603151364895" />
     <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1603139542779">
       <screen x="0" y="0" width="1536" height="834" />
     </state>

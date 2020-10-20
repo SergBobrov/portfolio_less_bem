@@ -1,7 +1,6 @@
 // compress: true
 @import "vars";
 
-
 html {
   font-size: 15px;
 }
@@ -13,18 +12,24 @@ body {
   color: @black;
 }
 
+h1, h2, h3, h4, h5, h6 {
+  margin: 0;
+}
+
 *,
 *:before,
 *:after {
   box-sizing: border-box;
 }
 
-
 /* Block */
 
-@import "blocks/container";
-@import "blocks/header";
-@import "blocks/user";
-@import "blocks/nav";
+@import "container";
+@import "header";
+@import "user";
+@import "nav";
+@import "intro";
+@import "social";
+@import "btn";
 
 

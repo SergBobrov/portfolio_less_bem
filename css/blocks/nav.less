@@ -3,10 +3,10 @@
 .nav {
   display: flex;
   height: 100%;
+  align-items: center;
 }
 
 .nav__link {
-  //padding: 0.66rem 2rem;
   margin-left: 2rem;
   position: relative;
 
@@ -16,8 +16,6 @@
   text-transform: uppercase;
   text-decoration: none;
 
-  //border: 2px solid transparent;
-  border-radius: 20px;
 
   &:after {
     content: "";
@@ -33,11 +31,23 @@
     transition: width .2s linear;
   }
 
-  &:hover,
-  &.active {
+  &:hover:not(.nav__link--btn) {
 
     &:after {
       width: 100%;
+    }
+  }
+
+  &--btn {
+    padding: 0.66rem 2rem;
+    border: 2px solid @black;
+    border-radius: 20px;
+
+    transition: background-color .2s linear, .2s linear;
+
+    &:hover {
+      background-color: @black;
+      color: @white
     }
   }
 }
